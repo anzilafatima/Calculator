@@ -1,0 +1,200 @@
+.calculator{
+    cursor: pointer;
+    height: 650px;
+    width: 450px;
+    background-color: black;
+    margin-left: 400px; 
+    border-radius: 35px; 
+
+}
+#display{
+    padding: 45px;
+    padding-right: 155px;
+    margin-top: 0px;  
+    border-radius: 25px;
+    margin-left: 0px; 
+    border: solid black;
+   
+    
+}
+#display{
+    font-size: 20px;
+}
+.div1 {
+
+    text-align: center;
+    font-size: 60px;
+    background-color: white;
+    height: 80px;
+    width: 80px;
+    margin: 15px;
+    border-radius: 50px; 
+    margin-top: 45px; 
+    display: inline-block;
+}
+.div2 {
+    text-align: center;
+    font-size: 60px;
+    background-color: white;
+    height: 80px;
+    width: 80px;
+    margin: 15px;
+    border-radius: 50px; 
+    margin-top: 15px; 
+    display: inline-block;
+}
+.div3 {
+    text-align: center;
+    font-size: 60px;
+    background-color: white;
+    height: 80px;
+    width: 80px;
+    margin: 15px;
+    border-radius: 50px; 
+    margin-top: 15px; 
+    display: inline-block;
+} 
+.div4 {
+    text-align: center;
+    font-size: 60px;
+    background-color: rgb(255, 187, 0);
+    height: 80px;
+    width: 80px;
+    margin: 10px;
+    border-radius: 50px; 
+    margin-top: 15px; 
+    display: inline-block;
+}
+.div5 {
+    text-align: center;
+    font-size: 60px;
+    background-color: white;
+    height: 80px;
+    width: 80px;
+    margin: 10px;
+    border-radius: 50px; 
+    margin-top: 15px; 
+    display: inline-block;
+}
+.div6 {
+
+    text-align: center;
+    font-size: 60px;
+    background-color: white;
+    height: 80px;
+    width: 80px;
+    margin: 25px;
+    border-radius: 50px; 
+    margin-top: 15px; 
+    display: inline-block;
+}
+.div7 {
+    text-align: center;
+    font-size: 60px;
+    background-color: white;
+    height: 80px;
+    width: 80px;
+    margin: 10px;
+    border-radius: 50px; 
+    margin-top: 15px; 
+    display: inline-block;
+}
+.div8 {
+    text-align: center;
+    font-size: 60px;
+    background-color: rgb(255, 187, 0);
+    height: 80px;
+    width: 80px;
+    margin: 10px;
+    border-radius: 50px; 
+    margin-top: 15px; 
+    display: inline-block;
+}
+.div9 {
+    text-align: center;
+    font-size: 60px;
+    background-color: white;
+    height: 80px;
+    width: 80px;
+    margin: 19px;
+    border-radius: 50px; 
+    margin-top: 15px; 
+    display: inline-block;
+}
+.div10 {
+    text-align: center;
+    font-size: 60px;
+    background-color: white;
+    height: 80px;
+    width: 80px;
+    margin: 10px;
+    border-radius: 50px; 
+    margin-top: 15px; 
+    display: inline-block;
+}
+.div11 {
+    text-align: center;
+    font-size: 60px;
+    background-color: white;
+    height: 80px;
+    width: 80px;
+    margin: 15px;
+    border-radius: 50px; 
+    margin-top: 15px; 
+    display: inline-block;
+}
+.div12 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 60px;
+    background-color: rgb(255, 187, 0);
+    height: 80px;
+    width: 80px;
+    margin: 15px;
+    border-radius: 50px; 
+    display: inline-block;
+}
+.div13 {
+    text-align: center;
+    font-size: 60px;
+    background-color: rgb(180, 178, 178);
+    height: 80px;
+    width: 80px;
+    margin: 15px;
+    border-radius: 50px; 
+    margin-top: 15px; 
+    display: inline-block;
+}
+.div14 {
+    text-align: center;
+    font-size: 60px;
+    background-color: rgb(180, 178, 178);;
+    height: 80px;
+    width: 80px;
+    margin: 15px;
+    border-radius: 50px; 
+    margin-top: 15px; 
+    display: inline-block;
+}
+.div15 {
+    text-align: center;
+    font-size: 60px;
+    background-color: rgb(180, 178, 178);;
+    height: 80px;
+    width: 80px;
+    margin: 15px;
+    border-radius: 50px; 
+    margin-top: 15px; 
+    display: inline-block;
+}
+.div16 {
+    text-align: center;
+    font-size: 60px;
+    background-color: rgb(255, 187, 0);
+    height: 80px;
+    width: 80px;
+    margin: 10px;
+    border-radius: 50px; 
+    margin-top: 15px; 
+    display: inline-block;
+}
